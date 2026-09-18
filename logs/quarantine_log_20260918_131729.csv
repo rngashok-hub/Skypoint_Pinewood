@@ -1,0 +1,3 @@
+run_timestamp,source_file,reason,rows
+2026-09-18T13:17:14.318233,pcc_residents,Acuity score outside documented 1-10 range,18
+2026-09-18T13:17:14.318233,yardi_units,Community ID outside C001-C014,30

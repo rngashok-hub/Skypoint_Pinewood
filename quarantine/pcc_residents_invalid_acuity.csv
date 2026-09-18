@@ -1,0 +1,19 @@
+resident_id,community_id,first_name,last_name,dob,gender,admit_date,discharge_date,care_level,acuity_score,source_file,ingestion_timestamp,mobility_status
+R01291,C007,Ryan,Davis,1938-10-10,F,2023-01-01,,Memory Care,50,pcc_residents_2025_01.csv,2026-09-18T13:17:14.318233,
+R01306,C007,Ronald,Gomez,1943-08-12,F,2024-07-29,,Memory Care,-5,pcc_residents_2025_01.csv,2026-09-18T13:17:14.318233,
+R01358,C009,Thomas,Johnson,1932-08-02,M,2023-02-27,,Independent Living,99,pcc_residents_2025_01.csv,2026-09-18T13:17:14.318233,
+R01291,C007,Ryan,Davis,1938-10-10,F,2023-01-01,,Memory Care,50,pcc_residents_2025_02.csv,2026-09-18T13:17:14.318233,
+R01306,C007,Ronald,Gomez,1943-08-12,F,2024-07-29,,Memory Care,-5,pcc_residents_2025_02.csv,2026-09-18T13:17:14.318233,
+R01358,C009,Thomas,Johnson,1932-08-02,M,2023-02-27,,Independent Living,99,pcc_residents_2025_02.csv,2026-09-18T13:17:14.318233,
+R01291,C007,Ryan,Davis,,F,,,Memory Care,50,pcc_residents_2025_03.csv,2026-09-18T13:17:14.318233,
+R01306,C007,Ronald,Gomez,,F,,,Memory Care,-5,pcc_residents_2025_03.csv,2026-09-18T13:17:14.318233,
+R01358,C009,Thomas,Johnson,,M,,,Independent Living,99,pcc_residents_2025_03.csv,2026-09-18T13:17:14.318233,
+R01291,C007,Ryan,Davis,1938-10-10,F,2023-01-01,,Memory Care,50,pcc_residents_2025_04.csv,2026-09-18T13:17:14.318233,Wheelchair
+R01306,C007,Ronald,Gomez,1943-08-12,F,2024-07-29,,Memory Care,-5,pcc_residents_2025_04.csv,2026-09-18T13:17:14.318233,Wheelchair
+R01358,C009,Thomas,Johnson,1932-08-02,M,2023-02-27,,Independent Living,99,pcc_residents_2025_04.csv,2026-09-18T13:17:14.318233,Independent
+R01291,C007,Ryan,Davis,1938-10-10,F,2023-01-01,,Memory Care,50,pcc_residents_2025_05.csv,2026-09-18T13:17:14.318233,
+R01306,C007,Ronald,Gomez,1943-08-12,F,2024-07-29,,Memory Care,-5,pcc_residents_2025_05.csv,2026-09-18T13:17:14.318233,
+R01358,C009,Thomas,Johnson,1932-08-02,M,2023-02-27,,Independent Living,99,pcc_residents_2025_05.csv,2026-09-18T13:17:14.318233,
+R01291,C007,Ryan,Davis,1938-10-10,F,2023-01-01,,Memory Care,50,pcc_residents_2025_06.csv,2026-09-18T13:17:14.318233,
+R01306,C007,Ronald,Gomez,1943-08-12,F,2024-07-29,,Memory Care,-5,pcc_residents_2025_06.csv,2026-09-18T13:17:14.318233,
+R01358,C009,Thomas,Johnson,1932-08-02,M,2023-02-27,,Independent Living,99,pcc_residents_2025_06.csv,2026-09-18T13:17:14.318233,

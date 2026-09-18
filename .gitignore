@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Power BI temporary/backup files
+*.pbit
+*.bak
+~$*
+
+# Local generated logs
+logs/*.csv
+!logs/pipeline_run_20260918_131729.csv
+!logs/quarantine_log_20260918_131729.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
