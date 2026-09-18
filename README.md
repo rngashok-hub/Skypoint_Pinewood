@@ -793,7 +793,7 @@ The communication is addressed to Karen Mills, Director of IT, and requests the 
 
 Walkthrough recording:
 
-[ADD PRIVATE WALKTHROUGH LINK HERE]
+[View the assessment walkthrough video](https://drive.google.com/file/d/12JaNlhCOUPPXp3B7fcQDDojclFWI31Td/view?usp=drive_link)
 
 The walkthrough should cover:
 
